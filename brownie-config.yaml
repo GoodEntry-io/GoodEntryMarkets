@@ -1,0 +1,9 @@
+compiler:
+    evm_version: null
+    solc:
+        version: 0.6.12
+        optimizer:
+            enabled: true
+            runs: 10
+    vyper:
+        version: null
